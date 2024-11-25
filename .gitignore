@@ -1,0 +1,5 @@
+data/**
+results/**
+!data/**/*.gitkeep
+!results/**/.gitkeep
+venv/
